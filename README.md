@@ -1,4 +1,4 @@
 # CemberTespit
 circle fixing with opencv
 
-Kameradan alınan görüntüdeki çember nesnesi tespit edilir.
+Kameradan alınan görüntü ile, çember şeklinde olan nesne tespit edilir.
